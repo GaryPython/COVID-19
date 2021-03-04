@@ -11,7 +11,7 @@ China疫情統計
 -----------------------------
 目標:在中國地圖上呈現確診人數<br>
      
-MAP_1<br>
+[MAP_1](https://github.com/GaryPython/COVID-19/blob/main/COVID-19%20China_visualization/Picture/map_1.JPG)<br>
 
 
 >問題:<br>
@@ -20,7 +20,7 @@ MAP_1<br>
 >解決方法:<br>
 >>使用色階的方式來做出區別<br>
 
-MAP_2<br>
+[MAP_2](https://github.com/GaryPython/COVID-19/blob/main/COVID-19%20China_visualization/Picture/map_2.JPG)<br>
 
 
 >問題:<br>
@@ -31,7 +31,7 @@ MAP_2<br>
 >![Data_describe](https://github.com/GaryPython/COVID-19/blob/main/COVID-19%20China_visualization/Picture/data_describe.JPG)
 
 
-MAP_3<br>
+[MAP_3](https://github.com/GaryPython/COVID-19/blob/main/COVID-19%20China_visualization/Picture/map_3.JPG)<br>
 >優點:<br>
 >>可清楚把感染人數分類，標示出危險區域<br>
 >>

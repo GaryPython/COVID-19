@@ -8,7 +8,7 @@ China疫情統計
 #視覺化<br>
 ##MAP_1
 >在中國地圖上呈現確診人數
-  資料呈現不直觀，太單調
+    資料呈現不直觀，太單調
 >
 
 [參考資料來源](https://kknews.cc/zh-tw/code/44vlokq.html"哈囉")
